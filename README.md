@@ -2,11 +2,12 @@
 JDBC Consol based application
 
 
-It is simple JDBC CRUD operatin consol based application
+It is a JDBC CRUD operation consol based application
 
 Requirement -
 
 1.MySQL 
+
 2. create a Database 
  
 3. create a table having name and column names as given below-
